@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: hannahphillips57/typotailoring- # Path to your GitHub repository
+  repo: Hannahphillips57/Typotailoring- # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: tailormadetypography.netlify.app #Your site on netlify
   use_graphql: true

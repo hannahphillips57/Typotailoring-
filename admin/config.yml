@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: hannahphillips57/typotailoring # Path to your GitHub repository
+  repo: hannahphillips57/typotailoring- # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: tailormadetypography.netlify.app #Your site on netlify
   use_graphql: true
@@ -223,7 +223,7 @@ collections:
             required: false
           - label: "Your Facebook page"
             name: "facebook"
-            widget: "string"
+            widget: "string–"
             required: false
           - label: "Your Disqus account for people to comment"
             name: "disqus_shortname"

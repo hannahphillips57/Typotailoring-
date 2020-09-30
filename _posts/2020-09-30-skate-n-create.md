@@ -24,9 +24,9 @@ The font can be found on ‘myfonts.com’ in the name of ‘Banco’ designed b
 
 !['Banco' font by 'Myfonts.com'](../uploads/banco.jpg "'Banco' font by 'Myfonts.com'")
 
-!['Thrasher' logo from Pinterest.co.uk](../uploads/thrasher-logo-.png "'Thrasher' logo from Pinterest.co.uk")
-
 ## Cholla
+
+!['Thrasher' logo from Pinterest.co.uk](../uploads/thrasher-logo-.png "'Thrasher' logo from Pinterest.co.uk")
 
 Below the word ‘Thrasher’ there is a different use of typography. The word ‘magazine’ is spelled horizontally with lines coming off of each letter. Although this style of font is contrasting the other, the two compliment each other well and both keep that edgy feel. This font is low contrast with very thin lines. The font size is small however the all capital letters and the use of italics does not make the logo feel soft or elegant at all.
 

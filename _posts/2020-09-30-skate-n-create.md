@@ -14,11 +14,17 @@ It’s easy to see why Thrasher has become so popular with our generation, espec
 
 It encompasses the skate-boarding theme within every inch of the clothing- it’s no surprise that the company is one of the most successful clothing brands in the world right now.
 
+!['Thrasher' logo from Pinterest.co.uk](../uploads/thrasher-logo.jpg "'Thrasher' logo from Pinterest.co.uk")
+
 ## Banco
 
 The letters are thick and bold to create the edgy, skater feel, and each letter is outlined in an orange border which is slowly being caught on fire. The word is curved, and the lines are high contrast with some letters appearing as if they are falling apart, e.g the ‘T.’ This adds to the ‘rough and ready’ branding, giving off the imperfect, rustic look.
 
 The font can be found on ‘myfonts.com’ in the name of ‘Banco’ designed by Roger Excoffon.
+
+!['Banco' font by 'Myfonts.com'](../uploads/banco.jpg "'Banco' font by 'Myfonts.com'")
+
+!['Thrasher' logo from Pinterest.co.uk](../uploads/thrasher-logo-.png "'Thrasher' logo from Pinterest.co.uk")
 
 ## Cholla
 

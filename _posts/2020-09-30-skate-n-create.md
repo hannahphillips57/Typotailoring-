@@ -17,7 +17,7 @@ It encompasses the skate-boarding theme within every inch of the clothing- it’
 
 ## Banco
 
-!['Thrasher' logo from Pinterest.co.uk](../uploads/thrasher-logo.jpg "'Thrasher' logo from Pinterest.co.uk")
+!['Thrasher' logo from Pinterest.co.uk](../uploads/tumblr_orxrnsuzfc1u2wbwuo1_500.jpg "'Thrasher' logo from Pinterest.co.uk")
 
 The letters are thick and bold to create the edgy, skater feel, and each letter is outlined in an orange border which is slowly being caught on fire. The word is curved, and the lines are high contrast with some letters appearing as if they are falling apart, e.g the ‘T.’ This adds to the ‘rough and ready’ branding, giving off the imperfect, rustic look.
 

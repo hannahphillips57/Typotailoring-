@@ -2,6 +2,7 @@
 layout: post
 title: Skate 'n' Create
 date: 2020-09-30T14:06:02.618Z
+header_feature_image: ../uploads/thrasher-logo.jpg
 comments: false
 ---
 Another hugely popular brand of today is ‘Thrasher’. Thrasher was founded in January 1981 by Eric Swenson and Fausto Vitello in San Francisco, CA. The whole clothing website originated from the best-selling skateboarding magazine ‘Thrasher’ which was set up to promote a skateboarding hardware company.

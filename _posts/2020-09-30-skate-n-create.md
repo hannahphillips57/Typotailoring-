@@ -2,7 +2,7 @@
 layout: post
 title: Fiery Font
 date: 2020-09-30T14:06:02.618Z
-header_feature_image: ../uploads/2020_fa_qtr2_graphicdetail_board_aidan_black_bottom2_600x.jpg
+header_feature_image: ../uploads/001014479.jpg
 comments: false
 ---
 You might've seen a growing number of people in the last year or two wearing clothes with an eye-catching, fiery design- one that you could spot from a mile off. That would be Thrasher! Thrasher was founded in January 1981 by Eric Swenson and Fausto Vitello in San Francisco, CA. The whole clothing website originated from the best-selling skateboarding magazine ‘Thrasher’ which was set up to promote a skateboarding hardware company.

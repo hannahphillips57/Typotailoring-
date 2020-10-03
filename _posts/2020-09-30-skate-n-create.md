@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skate 'n' Create
+title: Fiery Font
 date: 2020-09-30T14:06:02.618Z
 header_feature_image: ../uploads/718-7182033_thrasher-magazine-flame-logo-t-shirt-thrasher-tshirt.png
 comments: false

@@ -4,7 +4,7 @@ title: About
 subtitle: All about me and my life
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/20200406_194241-696x338.jpg
+header_feature_image: ../uploads/burnham.jpg
 published: true
 tags: null
 description: null

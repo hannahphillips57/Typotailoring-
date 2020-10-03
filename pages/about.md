@@ -12,6 +12,10 @@ show: true
 ---
 This site is all about how modern clothing brands use typography to enhance sales and connect more with their audience. 
 
+## My website name
+
+I decided to call my website 'Tailor-Made Typography' because 'Tailor-Made' is a term used when describing clothing and my whole site centres around clothing brands and the typography they use.
+
 ## My logo and banner image
 
 ![Tailor-Made Typography header](../uploads/tailor-made-3.png "Tailor-Made Typography header")

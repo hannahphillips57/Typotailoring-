@@ -5,9 +5,11 @@ date: 2020-09-30T14:06:02.618Z
 header_feature_image: ../uploads/001014479.jpg
 comments: false
 ---
-You might've seen a growing number of people in the last year or two wearing clothes with an eye-catching, fiery design- one that you could spot from a mile off. That would be Thrasher! Thrasher was founded in January 1981 by Eric Swenson and Fausto Vitello in San Francisco, CA. The whole clothing website originated from the best-selling skateboarding magazine ‘Thrasher’ which was set up to promote a skateboarding hardware company.
+You might've seen a growing number of people in the last year or two wearing clothes with an eye-catching, fiery design- one that you could spot from a mile off. That would be Thrasher! 
 
 ## The History of 'Thrasher'
+
+Thrasher was founded in January 1981 by Eric Swenson and Fausto Vitello in San Francisco, CA. The whole clothing website originated from the best-selling skateboarding magazine ‘Thrasher’ which was set up to promote a skateboarding hardware company. 
 
 The magazines’ popularity continued to rise among skaters however, since then, it has reached a much wider audience. The style of branding appealed to much more than its intended audience and now, Thrasher has since released a series of books, ramp building manuals, videos and of course the well-known clothing brand.
 

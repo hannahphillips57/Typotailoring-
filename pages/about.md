@@ -30,4 +30,6 @@ I also wanted to keep a fairly minimalistic colour palette for the rest of my si
 
 ## What about me?
 
-You might be wondering who I am! My name is Hannah Phillips and I'm a student at Oxford Brookes University studying Media, Journalism and Publishing. I am 20 years old and when I'm not studying at Oxford, I live in Somerset with my mum, dad, brother and cat.
+You might be wondering who I am! My name is Hannah Phillips and I'm a student at Oxford Brookes University studying Media, Journalism and Publishing. I am 20 years old and when I'm not studying at Oxford, I live in Somerset with my mum, dad, brother and cat. 
+
+![Me, Brent Knoll](../uploads/img_1506.jpg "Me, Brent Knoll")

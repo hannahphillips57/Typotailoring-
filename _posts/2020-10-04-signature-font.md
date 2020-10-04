@@ -2,7 +2,7 @@
 layout: post
 title: Signature Font
 date: 2020-10-04T13:38:49.413Z
-header_feature_image: ../uploads/stussy-logo.png
+header_feature_image: ../uploads/crop.php.jpeg
 comments: true
 ---
 Have you ever wondered if your signature could be the face of a $50 million brand? Well, Shawn Stussy did and is now the creator of one of the biggest brands of today- Stussy.

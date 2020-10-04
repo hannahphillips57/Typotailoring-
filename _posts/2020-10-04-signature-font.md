@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Signature Font
+title: Signature Type
 date: 2020-10-04T13:38:49.413Z
 header_feature_image: ../uploads/stussy-logo-670x370.jpg
 comments: true

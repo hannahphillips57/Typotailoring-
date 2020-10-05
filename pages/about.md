@@ -28,7 +28,7 @@ The fonts I used are 'Planet Arcadia' for 'Tailor-Made' and 'Stay Fearless' for 
 
 ![Tailor-Made Typography logo](../uploads/t-8.png "Tailor-Made Typography logo")
 
-I wanted to keep my logo fairly simple and easily recognisable. My intended audience are young adults/teenagers so I wanted to keep the 3D letters in my logo to keep the modern feel, which would appeal to young people. The black dotted outline represents stitches which gives an insight to the reader that my blog is about clothes.
+I wanted to keep my logo fairly simple and easily recognisable. My intended audience are young adults/teenagers so I wanted to keep the 3D letters in my logo to keep the modern feel, which would appeal to young people. The black dotted outline represents stitches which gives a hint to the reader that my blog is about clothes.
 
 I also wanted to keep a fairly minimalistic colour palette for the rest of my site, with all pictures shown on the main page of my website having a white background. This is a modern trend which is why I thought it would fit my site well.
 

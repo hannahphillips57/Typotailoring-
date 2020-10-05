@@ -21,7 +21,7 @@ So, by the late 80s, Stussy had adopted a more hip-hop/street style which was es
 
 ![Image by Goodhoodstore.com](../uploads/stussy_vintage_advert_double_2_v2.jpg "Image by Goodhoodstore.com")
 
-## Logo 
+## Logo
 
 ![](../uploads/stussy-logo.png)
 
@@ -32,6 +32,8 @@ But that's what's made it so successful! It fights against the rules, something 
 ## Analysis of Logo
 
 The logo has very thick letters with what appears to be ink dripping. This makes the logo feel very graffiti-style; as if someone has just spray painted the letters and it's still fresh. The logo follows no rules at all; it is high contrast in some areas, has wobbly lines and some overlapping, but this is what gives the brand the imperfect, street-style look!
+
+This is a variable-width font meaning the letters and spacings have different widths, with all of the letters being condensed and cramped together.
 
 The logo looks quick and rushed as if someone was trying to be as quick as they could, which once again reinforces the idea of chaos, freedom and fun- all things that the 1980s are known for.
 

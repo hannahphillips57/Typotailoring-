@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-subtitle: All about me and my site
+subtitle: All about this blog
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/burnham.jpg
+header_feature_image: ../uploads/tailor-made-3.png
 published: true
 tags: null
 description: null

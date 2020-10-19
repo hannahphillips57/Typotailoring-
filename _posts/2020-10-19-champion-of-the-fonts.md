@@ -27,6 +27,6 @@ The most recognisable part of Champion’s logo is the oversized ‘C’ which i
 
 The rest of the word uses a joined up monospaced typeface which gives the appearance of a student’s handwriting. The letters are thick and without serifs. The typeface has some areas of high contrast, which once again gives that hand-made feel.
 
-# To summarise
+# In summary
 
 The infamous Champion logo has led the brand to success by sticking to its roots and embracing the vintage, 90s authenticity. The logo is timeless and suits a wide range of styles due to its versatility- the bold, thick red and blue ‘C’ can be athletic, vintage, punk and on trend, all at the same time.

@@ -3,7 +3,7 @@ description: A blog about how designer clothing brands use typography
 header_text: ""
 footer_text: Copyright 2020 Hannah Phillips
 header_feature_image: ../uploads/tailor-made-3.png
-bannerheight: 100vh
+bannerheight: 40vmax
 logo: ../uploads/t-2.png
 favicon: ../uploads/favicon.ico
 gridlayout: true

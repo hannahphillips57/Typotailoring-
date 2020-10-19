@@ -2,6 +2,7 @@
 layout: post
 title: Champion of the Fonts
 date: 2020-10-19T13:59:17.918Z
+header_feature_image: ../uploads/champion-logo-001.jpg
 comments: true
 ---
 When talking about popular clothing brands with an interesting use of typography, it would be only fair to look at Champion.

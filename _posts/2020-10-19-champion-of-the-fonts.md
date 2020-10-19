@@ -17,7 +17,7 @@ It became popular among the punk, hip-hop and skater scene too.
 
 In more recent times, Champion has had an impressive comeback. While keeping the logo and design almost exactly how it was in 1919, Champion is as popular as ever before. With the help of collaborating with brands such as Supreme and other popular apparel, Champion is on the rise. Keeping the brand the same throughout the years has created a sense of 90s authenticity and a vintage feel.
 
-# Knockout
+## Knockout
 
 ![Champion logo by Cultedge.com](../uploads/champion-logo-001.jpg "Champion logo by Cultedge.com")
 
@@ -27,6 +27,6 @@ The most recognisable part of Champion’s logo is the oversized ‘C’ which i
 
 The rest of the word uses a joined up monospaced typeface which gives the appearance of a student’s handwriting. The letters are thick and without serifs. The typeface has some areas of high contrast, which once again gives that hand-made feel.
 
-# To summarise
+## To summarise
 
 The infamous Champion logo has led the brand to success by sticking to its roots and embracing the vintage, 90s authenticity. The logo is timeless and suits a wide range of styles due to its versatility- the bold, thick red and blue ‘C’ can be athletic, vintage, punk and on trend, all at the same time.

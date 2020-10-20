@@ -2,7 +2,7 @@
 layout: post
 title: Santa Cruz Style
 date: 2020-10-20T16:07:24.003Z
-header_feature_image: ../uploads/untitled-design.png
+header_feature_image: ../uploads/untitled-design-2.png
 comments: true
 ---
 Santa Cruz is a surfing and skateboarding brand which was established in 1973 by three friends in California. It is the longest running skateboarding company in the world. 

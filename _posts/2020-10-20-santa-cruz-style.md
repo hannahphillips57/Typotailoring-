@@ -2,10 +2,10 @@
 layout: post
 title: Santa Cruz Style
 date: 2020-10-20T16:07:24.003Z
-header_feature_image: ../uploads/53498.jpg
+header_feature_image: ../uploads/452-4526785_santa-cruz-oval-graphic-santa-cruz-skateboards-logo.png
 comments: true
 ---
-Santa Cruz is a surfing and skateboarding brand which was established in 1973 by three friends in California. It is still today the longest running skateboarding company in the world. 
+Santa Cruz is a surfing and skateboarding brand which was established in 1973 by three friends in California. It is the longest running skateboarding company in the world. 
 
 In the early 1970s, Richard Novak, Doug Haut and Jay Shuirman ran a shop in Santa Cruz, California that supplied the materials used to create surfboards. After a negative interaction with a customer in Mccully’s Bike Shop in Hawaii, they were requested to produce 500 skateboards. They accepted the order and in 1973, Santa Cruz was born.
 
@@ -27,6 +27,6 @@ The second logo that Santa Cruz began to use was ‘The Screaming Hand Logo’. 
 
 A similar font is named 'Santa Carla' by Kirk Shelton and can be font on 'Fontmeme.com'
 
-##  In summary
+## In summary
 
 Santa Cruz was so successful because the logos stood out more than any other skateboarding brand at the time. They had a completely unique logo because the typeface was hand-drawn. It was so iconic that it appealed to non-skateboarders/surfers and is now worn by thousands of young people today.

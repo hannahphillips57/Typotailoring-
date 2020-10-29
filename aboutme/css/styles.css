@@ -10,7 +10,7 @@ body {
 .introduction_section {
 	height: 700px;
 	width: 100%;
-	background-image: url("img/bluebeach.jpg");
+	background-image: url("../img/bluebeach.jpg"); 
 	background-size: cover;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 .profile_picture {
-	background-image: url("img/birthdaypic.jpg");
+	background-image: url("..img/birthdaypic.jpg");
 	background-position: center;
 	width: 180px;
 	height: 180px;

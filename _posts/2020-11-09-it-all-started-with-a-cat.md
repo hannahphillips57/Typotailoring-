@@ -2,7 +2,7 @@
 layout: post
 title: It all started with a cat...
 date: 2020-11-09T17:45:33.604Z
-header_feature_image: ../uploads/rip-n-dip-lord-nermal-clouds-backpack.png
+header_feature_image: ../uploads/t-shirt-sleeve-neck-font-t-shirt.jpg
 comments: true
 ---
 Featuring crude designs and a little cat, Rip’n’Dip has become one of the most recognisable brands of today. 
